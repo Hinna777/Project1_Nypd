@@ -11,8 +11,8 @@ Research questions to answer-
 3. Which age group is most commonly arrested (Ose) (Hinna)
 6. Which precinct has made the most arrests (#2 and #6 should correlate with eachother) (Jon A)
 7. Gender split among arrests (Hinna)
-8. Get specific and find out the worst corner of the city (e.g jane & finch) (Jon F)
-9. overall percentage of type of crime (Jon F)
+8. Get specific and find out the worst corner of the city (e.g jane & finch) (John F)
+9. overall percentage of type of crime (John F)
 
 Datasets to be used: 2022 NYPD Arrest data - https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
