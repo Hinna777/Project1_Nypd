@@ -1,7 +1,9 @@
 # Project Proposal
 
 NYPD CRIME DATA
-Team Members: Jon ARgosino, Hinna Ahmad, Ose Okpamen, John Francavilla
+Team Members: Jon Argosino, Hinna Ahmad, Ose Okpamen, John Francavilla
+
+Google Slides: 'https://docs.google.com/presentation/d/1_OqyK8UVxxZHlGCF6GvmO8QmGc-UpC1WUfrF-koJvoU/edit?usp=sharing'
 
 Project description/outline- we will be taking the 2022 NYPD Arrest data, cleaning and analyzing each statistic to create 8 visualizations to determine where the most crime and arrests occur in the city of New York. 
 
