@@ -12,7 +12,7 @@ In this analysis, we answered the following research questions:
 2. which burrough has the highest number of people arrested/ most dangerous part of NY (Jon A)
 3. Which age group is most commonly arrested (Hinna)
 4. What month had the highest number of arrests (Ose)
-5. Which precinct has made the most arrests (#2 and #6 should correlate with eachother) (Jon A)
+5. Which precinct has made the most arrests (Jon A)
 6. Gender split among arrests (Hinna)
 7. Get specific and find out the worst corner of the city (e.g jane & finch) (John F)
 8. overall percentage of type of crime (John F)
